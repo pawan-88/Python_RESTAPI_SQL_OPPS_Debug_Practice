@@ -1,0 +1,18 @@
+employee_id,name,department,salary,join_date
+101,Alice Smith,Engineering,75000.0,2023-01-15
+102,Bob Johnson,Marketing,65000.0,2023-03-20
+104,David Brown,HR,60000.0,2023-05-01
+105,Eve Davis,Engineering,72000.0,2023-02-28
+107,Grace Wilson,Marketing,70000.0,2023-06-12
+109,Irene Taylor,Finance,90000.0,2023-08-03
+110,Jack Anderson,Engineering,90000.0,2023-04-18
+112,Liam Martinez,Sales,68000.0,2023-10-10
+114,Noah Lee,Marketing,66000.0,2023-07-22
+116,Paul Clark,HR,61000.0,2023-09-30
+118,Ryan Walker,Sales,64000.0,2023-01-09
+120,Tom Hall,Finance,92000.0,2023-11-05
+121,Uma Patel,Engineering,76000.0,2023-03-14
+124,Xavier Adams,Engineering,81000.0,2023-06-08
+126,Zack Turner,Finance,87000.0,2023-02-02
+128,Bella Perez,Engineering,79000.0,2023-05-19
+129,Chris Evans,Sales,66000.0,2023-08-25
